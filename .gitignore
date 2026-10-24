@@ -1,0 +1,12 @@
+# File sementara dan kunci Microsoft Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
+~$*.xls
+*.tmp
+*.bak
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+Desktop.ini

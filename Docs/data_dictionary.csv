@@ -1,0 +1,13 @@
+column_name,description,data_type
+TransactionID,ID unik setiap transaksi,Integer
+CustomerID,ID nasabah,Identifier
+TransactionDate,Tanggal transaksi,Date/Time
+TransactionType,Jenis transaksi,Text
+Amount,Nilai transaksi dalam mata uang pada kolom Currency,Decimal
+ProductCategory,Kategori produk,Text
+BranchCity,Kota yang tercatat untuk transaksi,Text
+Channel,Media transaksi seperti ATM Branch Mobile atau Online,Text
+Currency,Mata uang transaksi seperti EUR atau USD,Text
+CreditCardFees,Biaya terkait penggunaan kartu kredit,Decimal
+InsuranceFees,Biaya terkait asuransi,Decimal
+LatePaymentAmount,Biaya yang tercatat akibat keterlambatan,Decimal
